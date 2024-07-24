@@ -12,6 +12,11 @@ function displayCats(cats) {
         gallery.appendChild(catItem);
     });
 }
+const myPromise = new Promise((resolve, reject) => {
+    setTimeout(() => {
+        resolve("hope it works")
+    }, 2000)
+})
 async function loadRandomCats() {
     try {
         const cats = await fetchRandomCats();

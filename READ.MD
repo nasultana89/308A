@@ -5,3 +5,4 @@ Demonstrate understanding of the JavaScript event loop.
 Generate asynchronous code using Promises and async/await syntax.
 Use fetch and/or Axios to interact with an external web API.
 Organize files using modules and imports.
+RESOURCES -MODULE 308A,TUTOR, MDN WEBSITE, W3 SCHOOLS,TUTORIALS
